@@ -14,3 +14,4 @@ Senac, turma e aluno e seus respectivos ID's
 
 O Senac tem turmas, e as turmas possuem alunos, salas e etc, e suas chaves primárias fazem ligação com outras entidades.
 
+![image](https://user-images.githubusercontent.com/114073347/215079860-972b005d-e859-4589-ba17-7e9b9e30ab62.png)
